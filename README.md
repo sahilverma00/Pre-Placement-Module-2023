@@ -1,13 +1,13 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
-- Preferred Programming Language: C++/Java/Python
+- Name: Sahil Verma
+- University Roll No.:1900290210137
+- Branch:EN
+- Section:C
+- Preferred Programming Language: Java
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
+- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/Sahil_Verma2000/)
 - HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
 
 ## Placement Module
